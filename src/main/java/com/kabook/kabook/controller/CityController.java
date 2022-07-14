@@ -13,7 +13,7 @@ import java.util.List;
 public class CityController {
 
     @Autowired
-    
+
     private CityServiceImpl cityServiceImpl;
 
 
